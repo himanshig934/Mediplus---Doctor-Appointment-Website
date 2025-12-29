@@ -1,6 +1,4 @@
 # Mediplus-Doctor-Appointment-Website
-# Doctor Appointment Website
-
 **Project description:** A responsive healthcare website developed using HTML and Tailwind CSS with PHP & MySQL backend for form submission and database integration. The project was developed on localhost to focus on backend logic and functionality.
 
 ## Features
