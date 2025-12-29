@@ -12,3 +12,5 @@
 - Tailwind CSS
 - PHP
 - MySQL
+
+<img width="1920" height="4400" alt="image" src="https://github.com/user-attachments/assets/720632bf-722d-4bd8-a4cd-c085377562a9" />
