@@ -13,4 +13,4 @@
 - PHP
 - MySQL
 
-<img width="1000" height="4400" alt="image" src="https://github.com/user-attachments/assets/720632bf-722d-4bd8-a4cd-c085377562a9" />
+<img width="1920" height="4900" alt="image" src="https://github.com/user-attachments/assets/e079e98c-17cb-4eeb-9613-6edcb79acd35" />
