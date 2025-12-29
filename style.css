@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+
+
+@media screen and (min-width: 300px) and (max-width: 630px) {
+
+/* header */
+.desktop-header{
+    display: none;
+}
+
+/* banner */
+.desktop-banner-section{
+    display: none;
+}
+
+.details{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
